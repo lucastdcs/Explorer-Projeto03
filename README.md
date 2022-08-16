@@ -1,5 +1,5 @@
 
-# Ambientes únicos para você
+# Crie e compartilhe seu evento
 
 Este é o projeto 03 do Explorer, curso da Rocketseat 😄
 
